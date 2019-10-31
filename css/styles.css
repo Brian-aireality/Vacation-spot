@@ -1,0 +1,25 @@
+body {
+  background-color: lightgreen;
+}
+
+.container {
+  text-align: center;
+}
+img {
+  height: 450px;
+  width: 500px;
+
+}
+.smallfish{
+  height: 225px;
+  width: 270px;
+  float: left;
+  }
+
+#fish {
+  align-items: center;
+  padding: 30px;
+  margin: 10px;
+  border: solid black 15px;
+  align-content: space-between 15px;
+}
